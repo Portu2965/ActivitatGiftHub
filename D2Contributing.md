@@ -18,5 +18,8 @@ After we can just select to where we want to push it and from whitch branch we w
 ![Mate](./capturas/5.png)
 ## We create an index.html inside the folder.
 ![Index](./capturas/7.png)
-## We push the changes that we have done.
-![FinalPush](./capturas/finalpush.png)
+## We push and commit the changes that we have done.
+![commit](./capturas/finalpush.png)
+![FinalPush](./capturas/commit.png)
+## We check if is all ok.
+![AllOk](./capturas/allokk.png)
