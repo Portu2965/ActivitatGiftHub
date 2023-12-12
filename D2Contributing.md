@@ -23,3 +23,7 @@ After we can just select to where we want to push it and from whitch branch we w
 ![FinalPush](./capturas/commit.png)
 ## We check if is all ok.
 ![AllOk](./capturas/allokk.png)
+## We do an pull
+![Pull](./capturas/pull.png)
+## Check what he has changed.
+![Check](./capturas/Comprovacion.png)
